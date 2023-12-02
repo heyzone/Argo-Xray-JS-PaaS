@@ -2,8 +2,8 @@
   "name": "express-hello-world",
   "version": "1.0.0",
   "description": "Express Hello World",
-  "main": "server.js",
-  "repository": "https://glitch.com/edit/#!/glitch-hello-node",
+  "main": "index.js",
+  "repository": "https://nodejs-serverless-function-express1-seven.vercel.app/",
   "license": "MIT",
   "private": false,
   "scripts": {
